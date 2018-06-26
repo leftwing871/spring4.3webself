@@ -35,6 +35,6 @@ public class HelloBeanSpringTest {
 		hello2.print();
 		assertSame(hello, hello2);
 				
-	}
+	} 
 
 }
